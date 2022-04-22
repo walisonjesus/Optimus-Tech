@@ -1,0 +1,41 @@
+.categorias{
+    display: flex;
+    justify-content: center;
+    margin-top: 96px;
+}
+
+.conteudo-categoria{
+    display: flex;
+    padding-left: 96px;
+}
+
+.item-categoria{
+    display: flex;
+    flex-direction: column;
+    margin: 0 32px;
+}
+
+.titulo-categoria{
+    font-size: 60px;
+    line-height: 72px;
+    font-weight: 600;
+    color: #8E2424;
+    letter-spacing: -0.02em;
+    margin: 12px 0;
+}
+
+.subtitulo-categoria{
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+    color: #101828;
+    margin: 8px 0;
+}
+
+.text-categoria{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #667085;
+    margin: 8px 0;
+}

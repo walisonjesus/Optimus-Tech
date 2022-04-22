@@ -1,0 +1,77 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.cabecalho{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 80px;
+    margin-top: 18px;
+}
+
+.titulo-cabecalho{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3A404E;
+}
+
+.nav-cabecalho{
+    display: flex;
+}
+
+.nav-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.item-list a{
+    display: flex;
+    padding: 22px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #667085;
+    text-decoration: none;
+    text-transform: capitalize;
+
+}
+
+.botoes{
+    display: flex;
+    margin-right: 80px;
+}
+
+.item-botao1{
+    border: solid 1px white;
+    font-size: 16px;
+    color: #667085;
+    background-color: white;
+    padding: 7px;
+    margin: 0 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    }
+
+.item-botao{
+    border: solid 1px white;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    background-color: #8E2424;
+    padding: 10px 18px;
+    margin: 0 12px;
+    border-radius: 8px;
+}
+
+@media screen and (max-width: 768px) {
+    
+    
+}

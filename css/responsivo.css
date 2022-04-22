@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px) {
+    .titulo-depoimentos{
+        font-size: 36px;
+        font-weight: 500;
+        line-height: 44px;
+        color: #101828;
+        letter-spacing: -0.02em;
+        margin: 16px 0;
+        padding-left: 28px;
+    }
+    .text-sobre{
+    padding-left: 34px;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #667085;
+    
+}
+    }
